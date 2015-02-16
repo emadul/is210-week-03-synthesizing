@@ -10,9 +10,9 @@ FISHY = inquisition.SPANISH
 #print FISH.index("Spanish",0,4)
 #print FISHY.index(1,9)
 
-spanish= "Spanish"[0:4]
+#spanish= "Spanish"[0:4]
 
-rep=FISHY.replace("Spanish","flemish")
-print rep
+FLEMISH=FISHY.replace("Spanish","flemish")
+print FLEMISH
 
 
